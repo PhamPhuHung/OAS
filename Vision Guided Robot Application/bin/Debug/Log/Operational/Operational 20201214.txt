@@ -1,0 +1,127 @@
+06:29:04.032	Open program
+06:29:04.692		Clear Error
+06:30:31.252	Login:Nguoi van hanh	1
+06:30:55.312	Nguoi van hanh	Open Auto control
+06:30:57.974	Nguoi van hanh	Press Start button
+06:32:48.053	Nguoi van hanh	Press Stop button
+06:37:24.473	Nguoi van hanh	Open Auto control
+06:37:50.347	Nguoi van hanh	Clear Error
+06:37:54.856	Nguoi van hanh	Open Auto control
+06:37:55.896	Nguoi van hanh	Open Auto control
+06:38:00.928	Nguoi van hanh	Open Manual control
+06:38:16.087	Nguoi van hanh	Clear Error
+06:38:20.526	Nguoi van hanh	Clear Error
+06:38:32.054	Nguoi van hanh	Clear Error
+06:38:43.000	Nguoi van hanh	Error Mode Off
+06:38:45.240	Nguoi van hanh	Open Auto control
+06:38:46.528	Nguoi van hanh	Open Auto control
+06:38:58.527	Nguoi van hanh	Open Auto control
+06:38:59.312	Nguoi van hanh	Open Auto control
+06:39:00.664	Nguoi van hanh	Open Auto control
+06:39:03.959	Nguoi van hanh	Clear Error
+06:39:04.159	Nguoi van hanh	Clear Error
+06:39:05.079	Nguoi van hanh	Clear Error
+06:45:16.384	Open program
+06:45:17.227		Clear Error
+06:45:39.221	Login:Nguoi van hanh	1
+06:45:51.934	Nguoi van hanh	Clear Error
+06:46:38.678	Nguoi van hanh	Clear Error
+06:46:40.158	Nguoi van hanh	Clear Error
+06:47:05.275	Nguoi van hanh	Clear Error
+06:47:11.467	Nguoi van hanh	Clear Error
+06:47:20.126	Nguoi van hanh	Clear Error
+06:47:21.254	Nguoi van hanh	Clear Error
+06:47:30.732	Nguoi van hanh	Open Manual control
+06:47:32.250	Nguoi van hanh	Open Manual control
+06:47:35.954	Nguoi van hanh	Open Manual control
+06:47:36.507	Nguoi van hanh	Open Manual control
+06:47:36.723	Nguoi van hanh	Open Manual control
+06:47:37.498	Nguoi van hanh	Open Manual control
+06:47:48.563	Nguoi van hanh	Clear Error
+06:47:49.571	Nguoi van hanh	Clear Error
+06:48:33.460	Nguoi van hanh	Configuration Modification
+06:48:43.366	Nguoi van hanh	Clear Error
+06:48:44.696	Nguoi van hanh	Clear Error
+06:48:46.310	Nguoi van hanh	Clear Error
+06:48:47.630	Nguoi van hanh	Clear Error
+06:48:52.674	Nguoi van hanh	Open Manual control
+06:48:53.530	Nguoi van hanh	Open Manual control
+06:48:54.876	Nguoi van hanh	Open Manual control
+06:49:56.616	Nguoi van hanh	Clear Error
+06:49:57.807	Nguoi van hanh	Clear Error
+06:49:59.424	Nguoi van hanh	Clear Error
+06:50:02.366	Nguoi van hanh	Clear Error
+06:50:05.623	Nguoi van hanh	Open Auto control
+06:50:08.079	Nguoi van hanh	Open Auto control
+06:50:11.038	Nguoi van hanh	Clear Error
+06:50:12.078	Nguoi van hanh	Clear Error
+06:50:16.974	Nguoi van hanh	Clear Error
+06:50:23.702	Nguoi van hanh	Clear Error
+06:50:32.661	Nguoi van hanh	Configuration Modification
+06:50:39.775	Nguoi van hanh	Error Mode Off
+06:50:43.939	Nguoi van hanh	Clear Error
+06:50:45.691	Nguoi van hanh	Clear Error
+06:50:48.438	Nguoi van hanh	Error Mode On
+06:50:51.323	Nguoi van hanh	Open Manual control
+06:50:52.588	Nguoi van hanh	Open Manual control
+06:50:54.514	Nguoi van hanh	Open Manual control
+06:50:57.427	Nguoi van hanh	Clear Error
+06:50:59.820	Nguoi van hanh	Open Auto control
+06:51:02.410	Nguoi van hanh	Open Manual control
+06:51:21.487	Nguoi van hanh	Open Auto control
+06:51:36.336	Nguoi van hanh	Open Auto control
+06:51:38.917	Nguoi van hanh	Press Start button
+08:17:38.093	Nguoi van hanh	Press Stop button
+08:17:40.325	Nguoi van hanh	Press Start button
+08:23:39.388	Nguoi van hanh	Press Stop button
+08:23:45.357	Nguoi van hanh	Press Start button
+08:23:54.909	Nguoi van hanh	Press Stop button
+08:23:57.773	Nguoi van hanh	Press Start button
+11:55:04.725	Nguoi van hanh	Press Stop button
+11:56:52.954	Open program
+11:56:53.409		Clear Error
+11:57:20.364	Login:Nguoi van hanh	1
+12:09:20.856	Open program
+12:09:21.294		Clear Error
+12:09:29.702	Login:Nguoi van hanh	1
+12:09:33.903	Nguoi van hanh	Clear Error
+12:09:44.860	Login:Nguoi van hanh
+12:09:44.860	Login:MM
+12:10:26.390	MM	Configuration Modification
+12:11:14.508	MM	Configuration Modification
+12:11:15.507	MM	Open Auto control
+12:11:18.918	MM	Clear Error
+12:11:30.464	MM	Open Auto control
+12:11:42.078	MM	Press Start button
+12:12:07.837	MM	Press Stop button
+12:12:36.272	MM	Configuration Modification
+12:12:36.942	MM	Press Start button
+12:13:50.141	MM	Press Stop button
+12:14:41.449	MM	Configuration Modification
+12:14:42.414	MM	Press Start button
+12:16:03.197	MM	Press Stop button
+12:16:12.106	MM	Configuration Modification
+12:16:18.262	MM	Press Start button
+12:17:08.061	MM	Press Stop button
+12:17:48.614	MM	Press Start button
+12:19:06.437	MM	Press Stop button
+12:29:19.460	Open program
+12:29:20.007		Clear Error
+12:29:24.349	Login:Nguoi van hanh	1
+12:29:37.776	Nguoi van hanh	Open Auto control
+12:45:28.339	Open program
+12:45:28.793		Clear Error
+12:45:36.901	Login:Nguoi van hanh	1
+12:45:48.797	Nguoi van hanh	Configuration Modification
+12:45:49.698	Nguoi van hanh	Open Auto control
+12:45:50.874	Nguoi van hanh	Open Auto control
+12:45:53.942	Nguoi van hanh	Press Start button
+13:03:34.413	Nguoi van hanh	Press Stop button
+13:03:52.605	Nguoi van hanh	Press Start button
+13:14:17.221	Nguoi van hanh	Press Stop button
+13:14:22.309	Nguoi van hanh	Press Start button
+13:14:55.789	Nguoi van hanh	Press Stop button
+13:15:00.661	Nguoi van hanh	Press Start button
+13:36:16.613	Nguoi van hanh	Press Stop button
+13:36:59.493	Nguoi van hanh	Press Start button
+15:31:12.965	Nguoi van hanh	Press Stop button

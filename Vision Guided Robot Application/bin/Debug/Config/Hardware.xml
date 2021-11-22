@@ -1,0 +1,21 @@
+<Parameter>
+  <Encoder_X Value="0" />
+  <Encoder_Y Value="0.067" />
+  <CCD_RB_X Value="-1.38310203982068" />
+  <CCD_RB_Y Value="-421.793632775157" />
+  <RBX_Leave_CCD_Min Value="-900" />
+  <RBX_Leave_CCD_Max Value="900" />
+  <RBY_Leave_CCD_Min Value="-1600" />
+  <RBY_Leave_CCD_Max Value="300" />
+  <RepeatRange Value="25" />
+  <OffsetX Value="-2" />
+  <OffsetY Value="-4" />
+  <WMA Value="745" />
+  <MaxErr Value="4" />
+  <CaptureInterval Value="2000" />
+  <LivedResolution Value="150" />
+  <CR_Left Value="200" />
+  <CR_Right Value="-200" />
+  <Print_Distance_XY_Setting Value="16000" />
+  <BarcodeDetectTime Value="3000" />
+</Parameter>

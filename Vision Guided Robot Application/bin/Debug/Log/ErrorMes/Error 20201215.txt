@@ -1,0 +1,111 @@
+07:26:44.099	0201,RF001 - Lỗi hệ thống
+07:26:44.099	0210,RF010 - Lỗi máy in
+07:27:48.234	0201,RF001 - Lỗi hệ thống
+07:27:48.235	0210,RF010 - Lỗi máy in
+07:30:11.068	0201,RF001 - Lỗi hệ thống
+07:30:11.068	0210,RF010 - Lỗi máy in
+07:31:15.911	0201,RF001 - Lỗi hệ thống
+07:31:15.911	0210,RF010 - Lỗi máy in
+07:31:25.219	0201,RF001 - Lỗi hệ thống
+07:31:25.219	0210,RF010 - Lỗi máy in
+07:31:28.961	0201,RF001 - Lỗi hệ thống
+07:31:28.961	0210,RF010 - Lỗi máy in
+07:31:30.363	0201,RF001 - Lỗi hệ thống
+07:31:30.363	0210,RF010 - Lỗi máy in
+07:31:46.706	0201,RF001 - Lỗi hệ thống
+07:31:46.706	0210,RF010 - Lỗi máy in
+07:33:35.662	0201,RF001 - Lỗi hệ thống
+07:33:35.662	0210,RF010 - Lỗi máy in
+07:34:11.607	0201,RF001 - Lỗi hệ thống
+07:34:11.607	0210,RF010 - Lỗi máy in
+07:34:27.113	0201,RF001 - Lỗi hệ thống
+07:34:45.605	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:45.607	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:45.763	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:45.765	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:45.861	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:45.863	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:45.989	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:46.147	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:46.305	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:46.460	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:46.609	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:46.768	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:46.926	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:47.079	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:47.235	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:47.396	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:47.550	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:47.708	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:47.864	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:34:48.021	0150,SW050 - Nhấn "CHẠY" để bắt đầu
+07:47:42.722	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+07:54:48.909	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+08:06:35.752	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+08:09:46.856	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+08:11:18.426	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+08:12:33.936	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+08:12:36.892	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+08:12:36.892	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+08:12:43.917	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+08:28:41.920	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+08:46:59.853	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:04:58.907	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:10:00.925	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+09:11:35.939	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:12:23.516	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:12:35.062	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:14:16.463	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+09:16:55.736	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:17:10.088	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+09:17:21.320	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:19:06.938	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+09:25:06.515	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:26:39.803	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:28:45.076	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:36:41.813	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+09:55:48.420	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:56:16.811	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+09:56:58.462	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:58:27.384	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:59:17.309	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:59:28.695	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+09:59:40.708	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:05.981	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:12.844	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:12.844	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:15.962	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:20.328	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:20.328	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:22.983	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:23.451	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:23.451	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:30.311	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:34.053	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:42.798	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:42.798	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:44.042	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:49.345	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:00:49.345	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:00:52.621	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:01:19.451	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:05:15.018	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:11:29.571	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:13:26.262	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:15:20.301	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:16:34.869	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:20:37.764	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:23:17.353	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:23:49.640	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:25:00.312	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+10:48:22.759	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:52:22.529	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+10:56:50.702	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+11:02:04.420	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+11:09:47.582	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+11:16:34.587	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+11:19:41.952	0304,RW103 - Dữ liệu sau tính toán vượt giới hạn
+11:49:20.360	0303,RW102 - Dữ liệu vị trí ngoài vùng làm việc
+11:54:33.765	0201,RF001 - Lỗi hệ thống
+11:54:33.765	0210,RF010 - Lỗi máy in
+12:05:19.050	0201,RF001 - Lỗi hệ thống

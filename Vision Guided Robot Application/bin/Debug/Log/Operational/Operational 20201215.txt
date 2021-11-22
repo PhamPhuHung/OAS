@@ -1,0 +1,25 @@
+07:21:38.373	Open program
+07:21:39.046		Clear Error
+07:25:42.627	Login:Nguoi van hanh	1
+07:26:43.526	Nguoi van hanh	Open Auto control
+07:27:31.939	Nguoi van hanh	Clear Error
+07:27:48.024	Nguoi van hanh	Open Auto control
+07:28:40.635	Nguoi van hanh	Clear Error
+07:30:10.861	Nguoi van hanh	Open Auto control
+07:30:18.611	Nguoi van hanh	Clear Error
+07:31:15.701	Nguoi van hanh	Open Auto control
+07:31:25.160	Nguoi van hanh	Clear Error
+07:31:28.816	Nguoi van hanh	Clear Error
+07:31:30.264	Nguoi van hanh	Clear Error
+07:31:34.483	Nguoi van hanh	Clear Error
+07:31:46.500	Nguoi van hanh	Open Auto control
+07:33:08.870	Nguoi van hanh	Clear Error
+07:33:35.453	Nguoi van hanh	Open Auto control
+07:33:45.531	Nguoi van hanh	Clear Error
+07:34:11.397	Nguoi van hanh	Open Auto control
+07:34:34.814	Nguoi van hanh	Clear Error
+07:34:45.397	Nguoi van hanh	Open Auto control
+07:34:48.043	Nguoi van hanh	Press Start button
+11:54:33.767	Nguoi van hanh	Press Stop button
+12:05:54.018	Open program
+12:05:55.034		Clear Error

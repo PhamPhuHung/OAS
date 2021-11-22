@@ -1,0 +1,1098 @@
+D:\Work\底層\Test - 7\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\底層\Test - 7\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\底層\Test - 7\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\底層\Test - 7\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\底層\Test - 7\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\底層\Test - 7\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\底層\Test - 7\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\底層\Test - 7\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.1\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.2\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.4\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.5\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.6\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.7\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.8\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Pick_Place - V0.10\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\user\source\repos\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application\MachineTools\bin\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application\MachineTools\bin\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.2\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\EntityFramework.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\EntityFramework.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.10\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\MachineTools.dll.config
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.xml
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application0.11\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\EntityFramework.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\EntityFramework.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.1\MachineTools\obj\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\MachineTools.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\EntityFramework.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\EntityFramework.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.3\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\MachineTools.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.6\MachineTools\obj\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\MachineTools.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\EntityFramework.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\EntityFramework.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.7\MachineTools\obj\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.pdb
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.dll
+D:\Work\2019\7. Pick_Place\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.pdb
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.dll
+D:\My Prog\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.pdb
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\MachineTools.pdb
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.xml
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.dll
+C:\Donald\Projects\Vision\Vision Guided Robot Application V1.0.1.9\MachineTools\obj\Debug\MachineTools.pdb
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\MachineTools.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\MachineTools.pdb
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\EntityFramework.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\EntityFramework.xml
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.dll
+C:\Donald\Projects\Vision\Outsole_Auto_Stamping_V20191216\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200104\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Donald_Test\Outsole_Auto_Stamping_V20200203\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v1 - Copy\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\Outsole_Auto_Stamping_V20200227_v2\Outsole_Auto_Stamping_V20200227_v2\MachineTools\obj\Debug\MachineTools.pdb
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll.config
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.pdb
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.xml
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.xml
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\h\0.Program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.pdb
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll.config
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.pdb
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.xml
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.xml
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.dll
+E:\0.Outsole N4\0.Rex vision\Outsole_Auto_Stamping_V20200227_v3 (2)\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmInputBox.resources
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.frmUserLogin.resources
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\h\program\Outsole_Auto_Stamping_V20200227_v3\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201908\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\Vision_Guided_Robot_Application.fProductPath.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.fRecipe.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200409\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\Vision_Guided_Robot_Application.fProductPath.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.fRecipe.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200809\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\Vision_Guided_Robot_Application.fProductPath.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.fRecipe.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200910\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20200914\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201006\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201022\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.pdb
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\MachineTools.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\MachineTools.pdb
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.xml
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030\MachineTools\obj\Debug\MachineTools.pdb
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\MachineTools.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\MachineTools.pdb
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\EntityFramework.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\EntityFramework.xml
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.dll
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.pdb
+D:\Project\Outsole_Auto_Stamping_V20200227_v3_20201030_Optimize\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201028\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.xml
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_20201203_recipesSelect_barcode\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201209\MachineTools\obj\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\USER\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201210\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201222\MachineTools\obj\Debug\MachineTools.pdb
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\MachineTools.dll.config
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\MachineTools.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\MachineTools.pdb
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.xml
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.dll
+C:\Users\RD\Desktop\Vision software\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\MachineTools.dll.config
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\MachineTools.pdb
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.SqlServer.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\EntityFramework.SqlServer.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.xml
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\bin\Debug\System.Data.SQLite.dll.config
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csprojAssemblyReference.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.FlowChart.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.Splash.frmSplash.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.frmUserConfig.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.Properties.Resources.resources
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csproj.GenerateResource.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csproj.CoreCompileInputs.cache
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.csproj.CopyComplete
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.dll
+D:\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\Outsole_Auto_Stamping_Optimize_recipesSelect_barcode_20201225\MachineTools\obj\Debug\MachineTools.pdb

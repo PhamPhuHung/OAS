@@ -1,0 +1,5 @@
+<Parameter>
+  <RobotIP Value="192.168.3.250" />
+  <CameraIP Value="192.168.8.23" />
+  <BarcodePort Value="COM3" />
+</Parameter>

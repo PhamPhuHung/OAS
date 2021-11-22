@@ -1,0 +1,17 @@
+OAS - Outsole Auto-Stamping Application
+--------------------------------------------------------------------------------------------------------------------
+OAS is the user interface, which control the 3-axis robot & printing machine via PLC by modbus communication
+OAS read & analyse data from camera through Cognex Library
+OAS also support for outsole recipe auto-change , using barcode
+
+OAS software include those function: 
+ - Auto-mode: Detect barcode to choose recipe, auto-printing every outsole that come through the camera room 
+ - Manual-mode: Manually control robot & printer
+ - Setting: Language (English - Chinese - Vietnamese), camera, connection, robot, recipe, ...
+ - 3-level user limit (Developer team, Maintainance team, Production team)
+-------------------------------------------------------------------------------------------------------------------
+Need Cognex Key to run this software
+-------------------------------------------------------------------------------------------------------------------
+Chingluh Viet Nam Shoes Company
+PCC-Auto, RD Team
+Pham Phu Hung

@@ -1,0 +1,84 @@
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Vision Guided Robot Application.exe.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Vision Guided Robot Application.exe
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Vision Guided Robot Application.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CalibFix.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CalibFix.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Core.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Database.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.FG1394DCAM.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ImageProcessing.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Inspection.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Inspection.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.PMAlign.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.QuickBuild.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.QuickBuild.Core.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.QuickBuild.IO.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ResultsAnalysis.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\EasyModbus.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\EPPlus.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\MachineTools.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\NDbUnit.Core.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\NDbUnit.SqlLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CalibFixPlus.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\stdole.dll
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\MachineTools.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\MachineTools.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CalibFix.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Core.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Database.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.FG1394DCAM.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.Inspection.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.QuickBuild.Core.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.QuickBuild.IO.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ResultsAnalysis.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\EPPlus.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\NDbUnit.SqlLite.pdb
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\System.Data.SQLite.dll.config
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\bin\x86\Debug\Cognex.VisionPro.CalibFixPlus.xml
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision Guided Robot Application.csprojAssemblyReference.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision_Guided_Robot_Application.fConfig.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision_Guided_Robot_Application.fProductPath.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision_Guided_Robot_Application.fRecipe.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision_Guided_Robot_Application.frmMain.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision_Guided_Robot_Application.fTraining.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision_Guided_Robot_Application.Properties.Resources.resources
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision Guided Robot Application.csproj.GenerateResource.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision Guided Robot Application.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision Guided Robot Application.csproj.CopyComplete
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision Guided Robot Application.exe
+C:\Users\AVN\Desktop\Auto stamping project\program\Hung personal modify\Outsole_Auto_Stamping_V20200227_v3_20201001\Vision Guided Robot Application\obj\x86\Debug\Vision Guided Robot Application.pdb
